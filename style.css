@@ -55,3 +55,8 @@ a {
   a:visited {
     color: rgb(190, 115, 190);
   }
+
+.box {
+    background-color: #ffffff10;
+    padding: 20px;
+  }
