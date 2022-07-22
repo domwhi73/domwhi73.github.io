@@ -56,7 +56,8 @@ a {
     color: rgb(190, 115, 190);
   }
 
-.box {
+box {
     background-color: #ffffff10;
     padding: 20px;
+    margin: 20px;
   }
