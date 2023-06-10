@@ -66,6 +66,8 @@ a {
 }
 .menu-item > a {
  padding:15px 20px;
- margin: 10px 30px;
+ background-color: #ffffff15;
+}
+.menu-item > a:hover {
  background-color: #ffffff30;
 }
